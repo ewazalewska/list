@@ -4,3 +4,4 @@
 - matrix.py - numpy package
 - 6_udemy_list_copy.py - copy list in a safe way
 - reversed_list.py - how to reverse list
+- range.py - built-in function in Python
